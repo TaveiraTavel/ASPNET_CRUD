@@ -1,0 +1,6 @@
+C:\Users\3etimds\source\repos\app1\AppBancoDominio\bin\Debug\AppBancoDominio.dll
+C:\Users\3etimds\source\repos\app1\AppBancoDominio\bin\Debug\AppBancoDominio.pdb
+C:\Users\3etimds\source\repos\app1\AppBancoDominio\obj\Debug\AppBancoDominio.csproj.AssemblyReference.cache
+C:\Users\3etimds\source\repos\app1\AppBancoDominio\obj\Debug\AppBancoDominio.csproj.CoreCompileInputs.cache
+C:\Users\3etimds\source\repos\app1\AppBancoDominio\obj\Debug\AppBancoDominio.dll
+C:\Users\3etimds\source\repos\app1\AppBancoDominio\obj\Debug\AppBancoDominio.pdb
